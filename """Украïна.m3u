@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1,1 Первый городской (Одесса)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,1+1 International
+http://lb.wisp.cat/lb0/1Plus1_International/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,100 News (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1,1Первый городской кр
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1,2+2
+http://lb.wisp.cat/lb0/2plus2/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,24 Канал (1080p)
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1,24 канал
+http://lb.wisp.cat/lb0/24UA/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,31 канал Одесса
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1,34 канал (576p) [Not 24/7]
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1,34 канал (Днепр)
+https://streamvideol.luxnet.ua/34ua/34ua.stream/chunklist.m3u8
+#EXTINF:-1,4 канал (720p)
+http://95.67.106.10/hls/nta_ua.m3u8
+#EXTINF:-1,7 канал (720p)
+https://cdn10.live-tv.od.ua:8083/7tvod/7tvod-abr/playlist.m3u8
+#EXTINF:-1,7 канал (Одесса)
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,ATR (504p)
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1,BamBarBia tv
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
+#EXTINF:-1,CNL Европа (360p)
+http://live-mobile.cdn01.net/hls-live/202E1F/default/mobile/stream_10429_2.m3u8
+#EXTINF:-1,City tv Odessa
+http://cdn1.live-tv.od.ua:8081/a1od/citytvod/playlist.m3u8
+#EXTINF:-1,D1
+http://vcdn2.produck.company:1935/out/d1_720p/playlist.m3u8
+#EXTINF:-1,Espreso.tv
+http://api.tv.ipnet.ua/api/v1/manifest/2007567821.m3u8
+#EXTINF:-1,G TV UA
+https://cdn1.live-tv.od.ua:8083/a1od/gtvod-abr/playlist.m3u8
+#EXTINF:-1,GIT (720p)
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1,GTV (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
+#EXTINF:-1,I-UA.tv (1080p)
+https://kie2.cdn.i-ua.tv/hlsme/iuatv.m3u8
+#EXTINF:-1,IZ ODESSA
+http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
+#EXTINF:-1,IНШИЙ
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod/playlist.m3u8
+#EXTINF:-1,Iнтер
+https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1,Iнтер(b)
+http://lb.wisp.cat/lb0/INTER/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,K1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1,KИÏВ
+http://api.tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
+#EXTINF:-1,Live Киïв
+https://d188n8dlntn7yl.cloudfront.net/hls/kyivlive.m3u8
+#EXTINF:-1,M2 (540p)
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1,PERSII ZAXIDNII
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,PZ
+http://api.tv.ipnet.ua:80/api/v1/manifest/2118742459.m3u8
+#EXTINF:-1,Prime time
+http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
+#EXTINF:-1,RUDANA
+http://live.rudana.com.ua/hls/stream_FHD.m3u8
+#EXTINF:-1,Shakhtar tv
+http://95.67.21.77/hls/ukrsport_ua_hi/index.m3u8
+#EXTINF:-1,Simon TV (Харьков)
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1,TGTV (Одесса)
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1,TIС Одесса
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+#EXTINF:-1,TV7+ (Хмельницький)
+http://tv7plus.com/hls/tv7_site.m3u8
+#EXTINF:-1,UA TV
+http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1,UA TV
+http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_low/index.m3u8
+#EXTINF:-1,UA Донбас
+http://api.tv.ipnet.ua/api/v1/manifest/1311274061.m3u8
+#EXTINF:-1,UA Крим
+http://api.tv.ipnet.ua/api/v1/manifest/2118742409.m3u8?codec=mpeg4
+#EXTINF:-1,UA: Крым
+http://uakrim-hls2.cosmonova.net.ua/hls/uakrim_ua_mid/index.m3u8
+#EXTINF:-1,UA:Zakarpattя
+http://api.tv.ipnet.ua/api/v1/manifest/2118742462.m3u8
+#EXTINF:-1,X Sport TV
+http://95.67.103.251/hls/xsport_ua_mid/index.m3u8
+#EXTINF:-1,Z (Запорожье)
+https://stream.ztv.zp.ua/hls/live.m3u8
+#EXTINF:-1,tva Чернiвцi
+http://hls.cdn.ua/tva.ua_live/livestream/index.m3u8
+#EXTINF:-1,А1 (Одесса)
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/playlist.m3u8
+#EXTINF:-1,АНТЕНА ЧЕРКАСИ
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1,Аверс (Луцьк)
+https://avers.pp.ua/hls/efir.m3u8
+#EXTINF:-1,Авторадио(Веб-камера)
+https://rtmp.radiogroup.com.ua:8080/live/avto/index.m3u8
+#EXTINF:-1,БИК ТВ (Балта)
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1,Белсат ТВ HD
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:-1,ВIККА тв Черкасия
+http://tv.cherkasy.app/hls/vikka.m3u8
+#EXTINF:-1,ГЛАС Одесса
+http://195.138.81.101:8081/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1,ГРОМАДСЬКЕ ІНТЕРАКТИВНЕ ТЕЛЕБАЧЕННЯ (Луцьк)
+https://stream.uagit.tv/gittv.m3u8
+#EXTINF:-1,Галичина (Ивано-Франковск)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742464.m3u8
+#EXTINF:-1,Днiпро ТВ
+http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
+#EXTINF:-1,Дом ТВ
+http://kanaldom.cdn-04.cosmonova.net.ua/hls/kanaldom_ua_hi/index.m3u8
+#EXTINF:-1,Донбас ТВ
+https://kv-k21-mc02.ollcdn.net/trku-live/20/a5d0f259a48c6bef7e875a438724b9c6/61eb41f8/donbass/donbass.m3u8
+#EXTINF:-1,Думская TV HD (Одесса)
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
+#EXTINF:-1,Еспресо
+http://lb.wisp.cat/lb0/ESPRESSO_TV/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1,Измаил
+http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
+#EXTINF:-1,Круг (Одесса)
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+#EXTINF:-1,М Студио
+http://213.174.23.59:8080/MS
+#EXTINF:-1,МЕГА
+http://212.115.255.196/Jfd85Hf/mega.m3u8
+#EXTINF:-1,Н
+http://iptv.prosto.tv:7000/ch6/video.m3u8?secret=fw6jbill
+#EXTINF:-1,НТК (Коломия)
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1,НТН
+https://edge2.iptv.macc.com.ua/img/ntn_3/index.m3u8
+#EXTINF:-1,Новый канал
+http://lb.wisp.cat/lb0/NOVIY_KANAL/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,ОНТ (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1,Одесса инт.
+http://85.238.112.69:8811/hls_sec/239.4.228.28-.m3u8
+#EXTINF:-1,Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1,Первый городской 1
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1,Перший HD
+http://lb.wisp.cat/lb0/UAPerviy_HD/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,Перший Західний HD
+http://lb.wisp.cat/lb0/1zahid_HD/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,Пиксель
+http://cdnua03.hls.tv/133/hls/99c91cce995b5620c9929e6835e6caf1/135/stream.m3u8
+#EXTINF:-1,Плюс
+http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
+#EXTINF:-1,Правда ТУТ Киïв
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,Правда ТУТ Львив
+http://pravdatytlviv-hls3.cosmonova.net.ua/hls/pravdatytlviv_ua_hi/index.m3u8
+#EXTINF:-1,Правда тут Киiв
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1,Прямий
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1,Прямий HD
+http://lb.wisp.cat/lb0/PramyiHD/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,РАДА ПРИКАРПАТТЯ
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1,РАИ (Ивано-Франковск)
+http://api.tv.ipnet.ua/api/v1/manifest/2118742460.m3u8
+#EXTINF:-1,РИО (Одесса)
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr-lq/playlist.m3u8
+#EXTINF:-1,Реноме (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1,Репортер (Одесса)
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/playlist.m3u8
+#EXTINF:-1,Рудана (Кривой Рог)
+http://134.249.128.243/hls/stream.m3u8
+#EXTINF:-1,СТБ HD
+http://lb.wisp.cat/lb0/STBHD/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,Сварожичи
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1,Смiла ТВ HD
+http://195.95.171.15/hls/stream.m3u8
+#EXTINF:-1,Сонце
+http://api.tv.ipnet.ua/api/v1/manifest/709640461.m3u8
+#EXTINF:-1,Союз TV (Житомир)
+http://live-sojuztv.cosmonova.net.ua/hls/sojuztv_ua_hi/index.m3u8
+#EXTINF:-1,Суспільне ТБ (Одесса)
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr-lq/playlist.m3u8
+#EXTINF:-1,ТВ-5 (Запорожье)
+http://rtsp.cdn.ua/tv5.zp.ua_live/_definst_/mp4:tv5/playlist.m3u8
+#EXTINF:-1,ТВА (Чернiвцi) (576p)
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:-1,ТВА Чернівці
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1,ТИС-ТВ (Одесса)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/playlist.m3u8
+#EXTINF:-1,ТРК Алекс (Запорожье)
+http://46.46.112.223/live/livestream1.m3u8
+#EXTINF:-1,ТРК НАДIЯ
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1,ТРК Надія - Новий Канал (Первомайский)
+http://178.217.215.57/mob/mystream.m3u8
+#EXTINF:-1,Тернопіль 1 HD
+http://ott.columbus.te.ua/ternopil1/index.m3u8
+#EXTINF:-1,Третий Цифровой (Одесса)
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
+#EXTINF:-1,Третий цифровой Одесса
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/3tvod/3tvod/playlist.m3u8
+#EXTINF:-1,Украïнське радiо
+http://api.tv.ipnet.ua:80/api/v1/manifest/2118742405.m3u8
+#EXTINF:-1,Украина 24
+http://lb.wisp.cat/lb0/UKRAINA_24/video.m3u8?token=FREETVUKRAINE
+#EXTINF:-1,Чернïвецький промïнь
+http://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1,Южная волна Одесса
+http://cdn1.live-tv.od.ua:8081/wave/wave-720/playlist.m3u8
+#EXTINF:-1,радио Люкс
+http://stream1.luxnet.ua/luxstudio/smil:luxstudio.stream.smil/playlist.m3u8
